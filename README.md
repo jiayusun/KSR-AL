@@ -16,6 +16,6 @@ keywords={Saliency detection;active learning;subspace ranking;support vector mac
 doi={10.1109/TIP.2019.2945679}, }
 
 
-### Contact
+# Contact
 
 Please send email to jiayusun666@gmail.com, if you have questions.
