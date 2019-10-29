@@ -5,7 +5,7 @@ by Lihe Zhang, Jiayu Sun, Tiantian Wang, Yifan Min and Huchuan Lu.
 
 # Citation
 
-If our method and dataset are useful for your research, please consider citing:
+If our method is useful for your research, please consider citing:
 
 @ARTICLE{8864111, 
 author={L. {Zhang} and J. {Sun} and T. {Wang} and Y. {Min} and H. {Lu}}, 
