@@ -3,7 +3,13 @@
 This repository has released the codes and saliency maps of 'Visual Saliency Detection via Kernelized Subspace Ranking with Active Learning', IEEE TIP 2019,
 by Lihe Zhang, Jiayu Sun, Tiantian Wang, Yifan Min and Huchuan Lu.
 
-# Paper link
+# Download links
+
+## Paper link
+- [Google Drive](https://drive.google.com/file/d/)
+- [Baidu Drive](https://drive.google.com/file/d/)
+
+## Saliency maps
 - [Google Drive](https://drive.google.com/file/d/)
 - [Baidu Drive](https://drive.google.com/file/d/)
 
