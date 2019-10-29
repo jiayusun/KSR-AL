@@ -1,4 +1,4 @@
-﻿![KSR-AL](resources/table.png)
+﻿![KSR-AL](resources/pip.png)
 # KSR-AL
 This repository has released the code and saliency maps of 'Visual Saliency Detection via Kernelized Subspace Ranking with Active Learning', TIP 2019, [Paper link](https://ieeexplore.ieee.org/document/8864111),
 by Lihe Zhang, Jiayu Sun, Tiantian Wang, Yifan Min and Huchuan Lu.
