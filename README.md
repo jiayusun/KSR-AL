@@ -5,11 +5,12 @@ by Lihe Zhang, Jiayu Sun, Tiantian Wang, Yifan Min and Huchuan Lu.
 
 # Paper link
 - [Google Drive](https://drive.google.com/file/d/)
+- [Baidu Drive](https://drive.google.com/file/d/)
 
 # Citation
-If this method is useful for your research, please cite the above publication: Bibtex entry:
+If this method is useful in your research, please cite the above publication: Bibtex entry:
 ```
-@ARTICLE{8864111, 
+@ARTICLE{ZhangTIP19, 
 author={L. {Zhang} and J. {Sun} and T. {Wang} and Y. {Min} and H. {Lu}},
 journal={IEEE Transactions on Image Processing}, 
 title={Visual Saliency Detection via Kernelized Subspace Ranking with Active Learning}, 
