@@ -2,7 +2,7 @@
 ![KSR-AL](resources/ksral.png)</br>
 This repository has released the codes and saliency maps of 'Visual Saliency Detection via Kernelized Subspace Ranking with Active Learning', IEEE TIP 2019,
 by Lihe Zhang, Jiayu Sun, Tiantian Wang, Yifan Min and Huchuan Lu.
-[Paper link](resources/ksral.pdf)
+[Paper link](URL:resources/ksral.pdf)
 
 # Download
 The saliency maps on 7 datasets including ECSSD, PASCAL-S, SOD, DUT-OMRON, THUR15K, HKU-IS and DUTS can be found in the following links.
