@@ -5,9 +5,10 @@ by Lihe Zhang, Jiayu Sun, Tiantian Wang, Yifan Min and Huchuan Lu.
 [Paper link](https://pan.baidu.com/s/1O6wyEFrZ6avWgVvn2DTb8g)
 
 # Download
-The saliency maps on 7 datasets including ECSSD, PASCAL-S, SOD, DUT-OMRON, THUR15K, HKU-IS and DUTS can be found in the following links.
+The saliency maps on 7 datasets including ECSSD, PASCAL-S, SOD, DUT-OMRON, HKU-IS, THUR15K and DUTS can be found in the following links.
+
 - [Google Drive](https://drive.google.com/file/d/)
-- [Baidu Drive](https://pan.baidu.com/s/1k7dTiUPMptmIgPVgSP3LUQ) access code: 
+- [Baidu Drive](https://pan.baidu.com/s/1gGBHNNoCIVV3LNXxiIHvpw)
 
 # Citation
 If this method is useful in your research, please cite the above publication: Bibtex entry:
