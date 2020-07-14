@@ -13,11 +13,11 @@ from sklearn.cluster import DBSCAN
 from PIL import Image
 import os
 
-features_path = '/home/jy/Desktop/ajw/WTT/features/rev1/feat3' 
-w_file = '/home/jy/Desktop/ajw/WTT/features/rev1/f_clustering_200.txt'   
-w2_file = '/home/jy/Desktop/ajw/WTT/features/rev1/f_clustering_200_zhanbi.txt'   
-n_file = '/home/jy/Desktop/ajw/WTT/image_list_2000/zhanbi/c1_name.txt'   
-z_file = '/home/jy/Desktop/ajw/WTT/image_list_2000/zhanbi/c1_zhanbi.txt'    
+features_path = '/home/jy/ksral/rev1/feat3' 
+w_file = '/home/jy/ksral/rev1/f_clustering_200.txt'   
+w2_file = '/home/jy/ksral/rev1/f_clustering_200_zhanbi.txt'   
+n_file = '/home/jy/ksral/image_list_2000/zhanbi/c1_name.txt'   
+z_file = '/home/jy/ksral/image_list_2000/zhanbi/c1_zhanbi.txt'    
 doc = open(w_file,'w')
 doc2 = open(w2_file,'w')
 times = 0
